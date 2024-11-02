@@ -1,4 +1,6 @@
 # Python CognoRise Projects
+Welcome to the **Python CognoRise Projects** repository! This collection contains small Python scripts that demonstrate various programming techniques and solve simple problems. Each project is standalone, easy to run, and serves as a hands-on example of basic programming concepts in Python.
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
